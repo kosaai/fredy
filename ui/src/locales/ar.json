@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "flag": "🇬🇧",
-    "name": "English",
-    "locale": "en-US",
-    "semiLocale": "en_US"
+    "flag": "🕌",
+    "name": "العربية",
+    "locale": "ar-ar",
+    "semiLocale": "ar-ar"
   },
   "app.demoBanner": "هذه نسخة تجريبية من Fredy. تُعاد جميع التغييرات والإعدادات إلى وضعها الأصلي كل ساعة.",
   "nav.dashboard": "نظرة عامة",
